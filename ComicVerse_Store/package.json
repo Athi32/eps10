@@ -1,9 +1,0 @@
-{
-  "name": "comicverse-store",
-  "version": "1.0.0",
-  "description": "A comic book store demo using a Node.js HTTP server",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  }
-}
